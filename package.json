@@ -1,11 +1,7 @@
 {
-  "name": "async-each-series",
+  "name": "jb55-async-each-series",
+  "description": "Apply an async function to each Array element in series",
   "version": "0.0.1",
-  "description": "Apply an async function to each Array element in series.",
-  "main": "index.js",
-  "repository": {
-    "url": "git@github.com:jb55/async-each-series.git"
-  },
   "keywords": [
     "async",
     "asyncEachSeries",
@@ -13,9 +9,7 @@
     "each",
     "asyncEach"
   ],
-  "engines": {
-    "node": ">=0.8.0"
-  },
-  "author": "jb55",
+  "main": "index.js",
+  "dependencies": {},
   "license": "MIT"
 }
